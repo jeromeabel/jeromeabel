@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning front end web development at Openclassrooms 
 - 🚀 I want to be a full stack dev (+ webgl)
 - 💞️ I’m looking to collaborate on pro & creative teams with a strong set of values
-- 📫 How to reach me : github, website
+- 📫 How to reach me : github, website, linkedin
