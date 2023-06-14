@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeromeabel
-- 👀 I’m interested in arts, multimedia, sciences, open source/knowledge, ecosophy
-- 🌱 I’m currently learning front end web development at Openclassrooms 
-- 🚀 I want to be a full stack dev (+ webgl)
-- 💞️ I’m looking to collaborate on pro & creative teams with a strong set of values
+- 👀 I’m interested in arts, multimedia, sciences, open source, free knowledge, ecosophy
+- 🎓 I've just finished a Front-End developer path at @OpenClassrooms
+- 🚀 Next challenge is to build a beautiful and powerful mobile app for the [YooHelp](https://www.linkedin.com/company/yoohelp/) startup
 - 📫 How to reach me : github, linkedin, website
