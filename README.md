@@ -1,4 +1,4 @@
-![linkedin2](https://github.com/jeromeabel/jeromeabel/assets/48929525/0ec50b50-7c2a-4a32-9c26-1e2425621791)
+![linkedin3](https://github.com/jeromeabel/jeromeabel/assets/48929525/5e42fed9-6742-4256-88e7-c2e80187bf92)
 
 - 👋 Hi, I’m @jeromeabel
 - 👀 I’m interested in arts, multimedia, sciences, open source, free knowledge, ecosophy
