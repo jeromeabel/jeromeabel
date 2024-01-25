@@ -1,13 +1,18 @@
 ![linkedin5](https://github.com/jeromeabel/jeromeabel/assets/48929525/0dd160af-cc38-4a54-bdbe-2cadc993f411)
 
-- 👋 Hi, I’m @jeromeabel
+
+# 👋 Hi, I’m @jeromeabel
+
 - 🎓 I finished a Front-End developer training at @[OpenClassrooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
 - 🌱 I’m currently learning: Astro, Supabase, React & JS Patterns
 - 🚀 I'm building: full-stack apps
 - 👀 See more on my portfolio: https://dev.jeromeabel.net/
 
+
+## Languages & Tools
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jeromeabel&show_icons=true&locale=en&layout=compact)
 
+## Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jeromeabel&show_icons=true&locale=en)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeromeabel&)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeromeabel)
