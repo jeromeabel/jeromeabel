@@ -9,10 +9,10 @@
 
 ## Stats
 
-<div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromeabel&show_icons=true&locale=en&layout=compact" alt="Jerome Abel stats languages and tools" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromeabel&show_icons=true&locale=en&layout=compact" alt="Jerome Abel stats languages and tools" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeromeabel&show_icons=true&locale=en" alt="Jerome Abel GitHub stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeabel&" alt="Jerome Abel Streak Stats" />
-</div>
-  
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeromeabel)](https://git.io/streak-stats)
  
