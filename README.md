@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @jeromeabel
 - 🎓 I finished a Front-End developer training at @[OpenClassrooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
-- 🌱 I’m currently learning: Astro, Supabase, React & JS Patterns
+- 🌱 I’m currently learning: Vue & Astro
 - 🚀 I'm building: full-stack apps
 - 👀 See more on my portfolio: https://dev.jeromeabel.net/
 
