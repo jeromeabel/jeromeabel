@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @jeromeabel
 - 🎓 I finished a Front-End developer training at @[OpenClassrooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
-- 🌱 I’m currently learning: Vue & Astro
-- 🚀 I'm building: full-stack apps
+- 🌱 I’m currently learning: Vue & Nuxt, Testing
+- 🚀 I'm currently building: [XP Catalyst](https://github.com/xpcatalyst/xpcatalyst), a full-stack learning platform for developers
 - 👀 See more on my portfolio: https://dev.jeromeabel.net/
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromeabel&show_icons=true&locale=en&layout=compact" alt="Jerome Abel stats languages and tools" />
