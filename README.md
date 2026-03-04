@@ -1,4 +1,5 @@
-![linkedin5](https://github.com/jeromeabel/jeromeabel/assets/48929525/0dd160af-cc38-4a54-bdbe-2cadc993f411)
+<img width="1584" height="396" alt="Jérôme Abel - Frontend Engineer" src="https://github.com/user-attachments/assets/e78abb93-5da0-4ebf-8055-e4af28743490" />
+
 
 - 👋 Hi, I’m @jeromeabel
 - 🌱 I’m currently learning AI, Vue & Nuxt, Testing, DDD
